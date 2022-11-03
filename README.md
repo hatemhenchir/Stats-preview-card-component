@@ -33,8 +33,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub]()
-- Live Site URL: [GitHub Pages Live URL]()
+- Solution URL: [Code on GitHub](https://github.com/hatemhenchir/Stats-preview-card-component)
+- Live Site URL: [GitHub Pages Live URL](https://hatemhenchir.github.io/Stats-preview-card-component/)
 
 ## My process
 
